@@ -97,6 +97,10 @@
                             <span> {{ setting('site_phone_number') }} </span>
                         </li>
                     </ul>
+                      <img src="https://i.hizliresim.com/fbvt5ht.png" 
+       alt="iyzico" 
+       style="max-width:150px; height:auto;">
+                    </ul>
                 </div>
             </div>
         </div>
